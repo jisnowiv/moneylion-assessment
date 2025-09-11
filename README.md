@@ -1,6 +1,6 @@
 # Readme
 ## Requirements
-```pip install -r requirements.txt```
+```pip[3] install -r requirements.txt```
 
 ## Usage
 ### Testing
